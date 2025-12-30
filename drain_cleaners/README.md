@@ -13,3 +13,9 @@ and plumbing systems.
 ## Verification
 - Conducted functional testing under normal operating conditions
 - Confirmed equipment met safety and operational requirements before return to service
+
+## Inspection Images
+
+![Drain Cleaner Inspection 1](images/IMG_2359.JPG)
+![Drain Cleaner Inspection 2](images/IMG_2361.JPG)
+![Drain Cleaner Inspection 3](images/IMG_2363.JPG)
