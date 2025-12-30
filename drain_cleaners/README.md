@@ -16,6 +16,8 @@ and plumbing systems.
 
 ## Inspection Images
 
-![Drain Cleaner Inspection 1](images/IMG_2359.JPG)
+
+![Drain Cleaner Inspection 1](https://raw.githubusercontent.com/MichaelHzzz/Home-Depot-Tool-Rental-Technician-Work-Experience-/7c4d14905a00b6f86a08ccb8faa5579e00478351/drain_cleaners/drain_cleaners/images/IMG_2359.JPG)
+
 ![Drain Cleaner Inspection 2](images/IMG_2361.JPG)
 ![Drain Cleaner Inspection 3](images/IMG_2363.JPG)
